@@ -1,0 +1,3 @@
+function.emu
+
+Game.folder("");
