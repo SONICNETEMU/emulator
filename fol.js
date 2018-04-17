@@ -1,3 +1,3 @@
 function.emulator
 
-Game.folder("");
+Game.folder("emulator/iso/");
