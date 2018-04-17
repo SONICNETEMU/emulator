@@ -1,3 +1,3 @@
-function.emu
+function.emulator
 
 Game.folder("");
